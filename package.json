@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --no-history"
   },
   "dependencies": {
     "gsap": "^3.12.5",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.0",
-    "gh-pages": "^6.3.0",
+    "gh-pages": "github:tschaub/gh-pages",
     "vite": "^5.0.0"
   }
 }
