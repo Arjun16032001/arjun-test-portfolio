@@ -5,7 +5,7 @@
 
   <!-- Navigation -->
   <nav ref="navbar">
-    <span class="nav-logo">Arjun P Sunil.</span>
+    <span class="nav-logo">Arjun p sunil.</span>
     <ul class="nav-links">
       <li><a href="#hero">Home</a></li>
       <li><a href="#about">About</a></li>
