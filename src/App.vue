@@ -5,7 +5,7 @@
 
   <!-- Navigation -->
   <nav ref="navbar">
-    <span class="nav-logo">Arjun.</span>
+    <span class="nav-logo">Arjun P Sunil.</span>
     <ul class="nav-links">
       <li><a href="#hero">Home</a></li>
       <li><a href="#about">About</a></li>
@@ -243,7 +243,7 @@ const skillsList = [
   { icon: '🟦', name: 'TypeScript' }, { icon: '🐍', name: 'Python' },
   { icon: '⚡', name: 'FastAPI' }, { icon: '🔷', name: 'ASP.NET Core' },
   { icon: '🐘', name: 'PostgreSQL' }, { icon: '🐳', name: 'Docker' },
-  { icon: '🤖', name: 'OpenAI API' }, { icon: '🦜', name: 'LangChain' },
+  { icon: '🤖', name: 'OpenAI API' },
   { icon: '🔴', name: 'Redis' }, { icon: '📦', name: 'SQLAlchemy' },
 ]
 
